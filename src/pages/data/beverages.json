@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://static.toiimg.com/photo/msid-70702395/70702395.jpg",
+    "name": "Tea",
+    "price": "20"
+  },
+  {
+    "url": "https://jessicainthekitchen.com/wp-content/uploads/2022/02/Matcha-latte-hot04442.jpg",
+    "name": "Matcha Latte",
+    "price": "200"
+  },
+  {
+    "url": "https://vaya.in/recipes/wp-content/uploads/2018/05/Coffee.jpg",
+    "name": "Coffee",
+    "price": "30"
+  },
+  {
+    "url": "https://www.collinsdictionary.com/images/full/blackcoffee_114233497_1000.jpg",
+    "name": "Black Coffee",
+    "price": "80"
+  },
+  {
+    "url": "https://assets.lybrate.com/q_auto:eco,f_auto,w_1200,h_720,c_fill,g_auto/imgs/product/health-wiki/bpages/green_tea.png",
+    "name": "Green Tea",
+    "price": "80"
+  },
+  {
+    "url": "https://i.ndtvimg.com/i/2017-10/black-tea-encourages-weight-loss_650x400_51507196055.jpg",
+    "name": "Black Tea",
+    "price": "50"
+  }
+]
